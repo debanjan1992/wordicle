@@ -1,4 +1,4 @@
-# Wordicle Clone
+# Wordicle
 
 A clean, fast, and addictive clone of Wordicle built using modern frontend technologies.  
 Players guess the secret word within a limited number of attempts using logical deduction and visual feedback.
